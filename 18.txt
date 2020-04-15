@@ -2,4 +2,8 @@
 
 1.epoll
 2........
-
+<<<<<<< Updated upstream
+方案一
+=======
+方案二
+>>>>>>> Stashed changes
